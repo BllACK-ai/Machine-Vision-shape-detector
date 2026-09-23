@@ -1,0 +1,5 @@
+# Runtime dependencies for the detector and helper scripts.
+numpy>=1.26
+opencv-python-headless>=4.8
+Pillow>=10.0
+reportlab>=4.0

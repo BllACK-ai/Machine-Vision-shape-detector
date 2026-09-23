@@ -1,0 +1,203 @@
+{
+  "source_background": "backgrounds\\photo_2026-07-05_14-55-56.jpg",
+  "output_image": "composite_input\\photo_2026-07-05_14-55-56_composite_01.png",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "base_shape_size_px": 104,
+  "shape_color_rgba": [
+    220,
+    74,
+    32,
+    255
+  ],
+  "edge_blur_radius": 0.8,
+  "shadow": {
+    "offset": {
+      "x": 8,
+      "y": 10
+    },
+    "blur_radius": 5.0,
+    "opacity": 85
+  },
+  "min_spacing_px": 18,
+  "shapes": [
+    {
+      "name": "Circle",
+      "center": {
+        "x": 1141,
+        "y": 447
+      },
+      "rotation_degrees": 349.5324,
+      "scale": 1.1057,
+      "nominal_size_px": 115,
+      "bbox": {
+        "left": 1060,
+        "top": 366,
+        "width": 163,
+        "height": 163
+      }
+    },
+    {
+      "name": "Decagon",
+      "center": {
+        "x": 822,
+        "y": 841
+      },
+      "rotation_degrees": 76.9873,
+      "scale": 0.8445,
+      "nominal_size_px": 88,
+      "bbox": {
+        "left": 758,
+        "top": 777,
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "name": "Ellipse",
+      "center": {
+        "x": 559,
+        "y": 832
+      },
+      "rotation_degrees": 344.8168,
+      "scale": 0.8089,
+      "nominal_size_px": 84,
+      "bbox": {
+        "left": 473,
+        "top": 764,
+        "width": 172,
+        "height": 136
+      }
+    },
+    {
+      "name": "Heptagon",
+      "center": {
+        "x": 1022,
+        "y": 151
+      },
+      "rotation_degrees": 210.7146,
+      "scale": 0.9695,
+      "nominal_size_px": 101,
+      "bbox": {
+        "left": 938,
+        "top": 68,
+        "width": 167,
+        "height": 167
+      }
+    },
+    {
+      "name": "Hexagon",
+      "center": {
+        "x": 138,
+        "y": 343
+      },
+      "rotation_degrees": 321.9723,
+      "scale": 0.9073,
+      "nominal_size_px": 94,
+      "bbox": {
+        "left": 59,
+        "top": 264,
+        "width": 158,
+        "height": 158
+      }
+    },
+    {
+      "name": "Nonagon",
+      "center": {
+        "x": 786,
+        "y": 568
+      },
+      "rotation_degrees": 313.7989,
+      "scale": 0.9617,
+      "nominal_size_px": 100,
+      "bbox": {
+        "left": 701,
+        "top": 483,
+        "width": 170,
+        "height": 170
+      }
+    },
+    {
+      "name": "Octagon",
+      "center": {
+        "x": 522,
+        "y": 447
+      },
+      "rotation_degrees": 342.472,
+      "scale": 0.9752,
+      "nominal_size_px": 101,
+      "bbox": {
+        "left": 446,
+        "top": 370,
+        "width": 153,
+        "height": 153
+      }
+    },
+    {
+      "name": "Pentagon",
+      "center": {
+        "x": 759,
+        "y": 277
+      },
+      "rotation_degrees": 348.9973,
+      "scale": 1.0194,
+      "nominal_size_px": 106,
+      "bbox": {
+        "left": 683,
+        "top": 201,
+        "width": 152,
+        "height": 152
+      }
+    },
+    {
+      "name": "Rectangle",
+      "center": {
+        "x": 289,
+        "y": 662
+      },
+      "rotation_degrees": 245.458,
+      "scale": 1.0559,
+      "nominal_size_px": 110,
+      "bbox": {
+        "left": 187,
+        "top": 544,
+        "width": 204,
+        "height": 236
+      }
+    },
+    {
+      "name": "Square",
+      "center": {
+        "x": 1117,
+        "y": 797
+      },
+      "rotation_degrees": 82.7615,
+      "scale": 1.1981,
+      "nominal_size_px": 125,
+      "bbox": {
+        "left": 1034,
+        "top": 714,
+        "width": 167,
+        "height": 167
+      }
+    },
+    {
+      "name": "Triangle",
+      "center": {
+        "x": 490,
+        "y": 154
+      },
+      "rotation_degrees": 284.909,
+      "scale": 1.1619,
+      "nominal_size_px": 121,
+      "bbox": {
+        "left": 400,
+        "top": 64,
+        "width": 179,
+        "height": 179
+      }
+    }
+  ]
+}
