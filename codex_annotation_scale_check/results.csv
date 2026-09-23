@@ -1,2 +1,0 @@
-filename,detected_shape,vertices,area,bbox_x,bbox_y,bbox_width,bbox_height,circularity,confidence
-circle.png,Circle,8,53128.0,120,120,261,261,0.899,0.964
